@@ -1,5 +1,5 @@
 <template>
-    <div class="mt-24 max-w-screen-md xl:max-w-screen-lg mx-auto text-center">
+    <div class="mt-24 max-w-screen-md xl:max-w-screen-lg mx-auto text-center px-8 lg:px-0">
         <h1 class="text-2xl font-semibold text-gray-900 uppercase">Our Values</h1>
         <div class="mt-8 grid md:grid-cols-3 gap-4">
             <div class="flex items-center">

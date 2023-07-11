@@ -24,7 +24,7 @@ const submitForm = async () => {
 </script>
 
 <template>
-    <div class="mt-24 max-w-screen-sm mx-auto">
+    <div class="mt-24 max-w-screen-sm mx-auto px-8 lg:px-0">
         <h1 class="text-2xl font-semibold text-gray-800 uppercase text-center mb-6">Contact Us</h1>
         <form @submit.prevent="submitForm">
             <div class="mb-2">
